@@ -1,1 +1,1 @@
-# py-adv-2017-09-25
+[Notatnik na hackmd.io](https://hackmd.io/KwZg7GAcBmxgtANgJwBNjwCwCMDGDJcAmARnmUlQAYxFDIrcqg==?view)
