@@ -1,1 +1,1 @@
-[Notatnik na hackmd.io](https://hackmd.io/KwZg7GAcBmxgtANgJwBNjwCwCMDGDJcAmARnmUlQAYxFDIrcqg==?view)
+[Notatnik na hackmd.io](https://hackmd.io/c/Byio2XBob)
