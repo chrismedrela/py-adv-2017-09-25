@@ -1,3 +1,22 @@
 [Notatnik na hackmd.io](https://hackmd.io/c/Byio2XBob)
 
-[Link do ankiety ewaluacyjnej](http://www.infotraining.pl/ankieta/py-adv-2017-09-25-km)
+Więcej szkoleń: <http://medrela.com>
+
+# Dzień pierwszy
+
+- Plan szkolenia
+- Funkcje
+- Klasy
+
+# Dzień drugi
+
+- Klasy i dziedziczenie
+- Moduł `collections`
+- Elementy programowania funkcyjnego
+
+# Dzień trzeci
+
+- Elementy programowania funkcyjnego c.d.
+- Metaprogramowanie (dekoratory i menadżery kontekstu)
+- Moduły i pakiety
+- Testowanie
